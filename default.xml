@@ -201,12 +201,9 @@
   <project path="frameworks/ml" name="platform/frameworks/ml" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="frameworks/native" name="platform/frameworks/native" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
-  <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
-  <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
-  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="frameworks/rs" name="platform/frameworks/rs" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="frameworks/support" name="platform/frameworks/support" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
@@ -259,6 +256,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
+  <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" revision="refs/tags/android-4.1.1_r4" remote="aosp" />
